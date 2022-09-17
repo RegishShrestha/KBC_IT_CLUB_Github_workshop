@@ -10,7 +10,7 @@ Instructors:
     <a href="https://github.com/Novaprime-code"> Jay Shyam Patel  <a>
   </li>
   <li>
-    <a href=""> Ashish Poudel  <a>
+    <a href="https://github.com/ashishpoudel523"> Ashish Poudel  <a>
   </li>
   <li>
     <a href="https://github.com/PrayashPathak"> Prayash Pathak <a>
@@ -28,7 +28,7 @@ Instructors:
     <a href="https://github.com/Satishlm10"> Satish Maharjan  <a>
   </li>
   <li>
-    <a href=""> Ashmin Shrestha  <a>
+    <a href="https://github.com/ashmin57"> Ashmin Shrestha  <a>
   </li>
   <li>
     <a href="https://github.com/Mibek-Shrestha"> Mibek Shrestha <a>
