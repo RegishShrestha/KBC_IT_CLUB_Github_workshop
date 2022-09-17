@@ -1,13 +1,13 @@
 # KBC_IT_CLUB_Github_workshop
 
 Trainers:
-1. Regish Shrestha \n
-2. Jay Shyam Patel \n
-3. Satish Maharjan \n
-4. Prayash Pathak \n
-5. Leah Deshar /n
-6. Jayanti Bhandari \n
-7. Ashish Poudel \n
-8. Mibek Shrestha \n
-9. Shreejal Maharjan \n
-10. Ashmin Shrestha \n
+1. Regish Shrestha 
+2. Jay Shyam Patel 
+3. Satish Maharjan 
+4. Prayash Pathak 
+5. Leah Deshar 
+6. Jayanti Bhandari 
+7. Ashish Poudel 
+8. Mibek Shrestha 
+9. Shreejal Maharjan 
+10. Ashmin Shrestha 
