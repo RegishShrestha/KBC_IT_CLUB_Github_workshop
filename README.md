@@ -7,7 +7,7 @@ Instructors:
     <a href="https://github.com/RegishShrestha"> Regish Shrestha <a>
   </li>
     <li>
-    <a href=""> Jay Shyam Patel  <a>
+    <a href="https://github.com/Novaprime-code"> Jay Shyam Patel  <a>
   </li>
   <li>
     <a href=""> Ashish Poudel  <a>
@@ -16,7 +16,7 @@ Instructors:
     <a href="https://github.com/PrayashPathak"> Prayash Pathak <a>
   </li>
   <li>
-    <a href=""> Leah Deshar  <a>
+    <a href="https://github.com/LeahDeshar"> Leah Deshar  <a>
   </li>
   <li>
     <a href="https://github.com/UrSensei17"> Jayanti Bhandari  <a>
@@ -31,6 +31,6 @@ Instructors:
     <a href=""> Ashmin Shrestha  <a>
   </li>
   <li>
-    <a href=""> Mibek Shrestha <a>
+    <a href="https://github.com/Mibek-Shrestha"> Mibek Shrestha <a>
   </li>
 
