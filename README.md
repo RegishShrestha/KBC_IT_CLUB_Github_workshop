@@ -1,7 +1,8 @@
-# KBC_IT_CLUB_Github_workshop
+# KBC IT CLUB
+Git and Github workshop
 
-Trainers:
-1. Regish Shrestha 
+Instructors:
+<a href="https://github.com/RegishShrestha"> Regish Shrestha <a>
 2. Jay Shyam Patel 
 3. Satish Maharjan 
 4. Prayash Pathak 
